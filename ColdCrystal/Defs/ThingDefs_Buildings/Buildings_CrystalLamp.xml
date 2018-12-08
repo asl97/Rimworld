@@ -34,7 +34,7 @@
       <WoodLog>20</WoodLog>
       <ColdCrystal>1</ColdCrystal>
     </costList>
-    <soundImpactDefault>BulletImpactGround</soundImpactDefault>
+    <soundImpactDefault>BulletImpact_Ground</soundImpactDefault>
     <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
     <resourcesFractionWhenDeconstructed>0.75</resourcesFractionWhenDeconstructed>
     <placeWorkers>
